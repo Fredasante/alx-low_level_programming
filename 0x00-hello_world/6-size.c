@@ -10,7 +10,7 @@ int main(void)
 	long long int II;
 	float d;
 	char c;
-i
+
 	printf("Size of a char: %lu byte(s)\n", size of(c));
 	printf("Size of an int: %lu byte(s)\n", size of(i));
 	printf("Size of long int: %lu byte(s)\n", size of(I));
