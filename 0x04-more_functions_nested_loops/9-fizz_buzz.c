@@ -7,9 +7,10 @@
  * Return: 0 if successful
  */
 
-int main(void)va
+int main(void)
 {
 	int ii = 1;
+
 	do {
 		if ((ii % 3 == 0) && (ii % 5 == 0))
 			printf("FizzBuzz");
