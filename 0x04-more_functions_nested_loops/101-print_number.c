@@ -16,6 +16,7 @@ void print_number(int var)
 	}
 
 	print(var);
+}
 
 /**
  * print - subfunction to print recursively
