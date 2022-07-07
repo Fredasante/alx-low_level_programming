@@ -12,6 +12,7 @@ void print(int var)
 		_putchar('-');
 		var = -var;
 	}
+
 	if (var / 10)
 		print(var / 10);
 	_putchar(var % 10 + '0');
