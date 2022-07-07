@@ -38,6 +38,7 @@ void more_numbers(void)
 			}
 
 		} while (ii < 15);
+
 		jj++;
 		_putchar('\n');
 	}
