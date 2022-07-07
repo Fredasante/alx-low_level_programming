@@ -1,9 +1,9 @@
 #include "main.h"
+
 /**
  * print - print variable recursively
  * @var: var
  */
-
 void print(int var)
 {
 	if (var < 0)
@@ -16,6 +16,7 @@ void print(int var)
 		print(var / 10);
 	_putchar(var % 10 + '0');
 }
+
 /**
  * more_numbers - print numbers up to 14
  */
