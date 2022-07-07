@@ -9,7 +9,7 @@
  */
 int largest_number(int n1, int n2, int n3)
 {
-	int largest:
+	int largest;
 
 		if (n1 > n2 > n3)
 			largest = n1;
