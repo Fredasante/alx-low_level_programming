@@ -3,8 +3,8 @@
 
 /**
  * _strcmp - For comparing purpose
- * s1: first parameter
- * s2: second parameter
+ * @s1: first parameter
+ * @s2: second parameter
  * Return: integer
  */
 
